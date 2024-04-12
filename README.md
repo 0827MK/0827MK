@@ -6,7 +6,7 @@
 👩🏻‍⚕️ I'm a student.  
 📖I'm learning Python and JavaScript now.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0827MK&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0827MK&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=0827MK)
 
